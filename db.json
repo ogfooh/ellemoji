@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "ElleMoji",
+            "external_url": "http://intheghet.to/ellemoji/furious",
+            "image": ""https://cdn.discordapp.com/emojis/678686564741677069.png",
+            "name": "FURIOUS #0"
+        },
+        {
+            "id": 1,
+            "description": "ElleMoji",
+            "external_url": "http://intheghet.to/ellemoji/knucks",
+            "image": "https://cdn.discordapp.com/emojis/671855755531649034.png",
+            "name": "KNUCKS #1"
+        },
+        {
+            "id": 2,
+            "description": "ElleMoji",
+            "external_url": "http://intheghet.to/ellemoji/watching",
+            "image": "https://cdn.discordapp.com/emojis/654358985863856170.png",
+            "name": "WATCHING #2"
+        }
+    ]
+}
